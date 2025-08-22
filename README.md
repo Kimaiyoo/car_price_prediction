@@ -53,6 +53,8 @@ developerFolio/
 ├── car_price_prediction # Jupyter notebook with EDA & modeling
 ├── README.md
 ```
+---
+
 ## 📬 Connect With Me
 
 - LinkedIn: [Naomi Jepkorir Kimaiyo](http://linkedin.com/in/naomi-jepkorir-kimaiyo/)
