@@ -48,7 +48,6 @@ To validate assumptions of Linear Regression, the following diagnostic plots wer
 
 ## 📂 Project Structure
 ```bash
-├── cardekho.csv # Dataset 
 ├── car_price_prediction # Jupyter notebook with EDA & modeling
 ├── README.md
 ```
